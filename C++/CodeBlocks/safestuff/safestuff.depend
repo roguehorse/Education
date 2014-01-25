@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1372033670 source:/home/Roguehorse/Ranger/C++/CodeBlocks/safestuff/main.cpp
+	<iostream>
+	"safestuff.h"
+
+1372033935 /home/Roguehorse/Ranger/C++/CodeBlocks/safestuff/safestuff.h
+
+1372033810 source:/home/Roguehorse/Ranger/C++/CodeBlocks/safestuff/safestuff.cpp
+	<iostream>
+
