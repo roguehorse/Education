@@ -1,0 +1,14 @@
+C:\Users\Ranger\AppData\Local\Temporary Projects\sdubois_Wk3_v1\bin\Debug\sdubois_Wk3_v1.exe
+C:\Users\Ranger\AppData\Local\Temporary Projects\sdubois_Wk3_v1\bin\Debug\sdubois_Wk3_v1.pdb
+C:\Users\Ranger\AppData\Local\Temporary Projects\sdubois_Wk3_v1\bin\Debug\sdubois_Wk3_v1.xml
+C:\Users\Ranger\AppData\Local\Temporary Projects\sdubois_Wk3_v1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ranger\AppData\Local\Temporary Projects\sdubois_Wk3_v1\obj\x86\Debug\sdubois_Wk3_v1.Resources.resources
+C:\Users\Ranger\AppData\Local\Temporary Projects\sdubois_Wk3_v1\obj\x86\Debug\sdubois_Wk3_v1.sdubois_wk3_v1.resources
+C:\Users\Ranger\AppData\Local\Temporary Projects\sdubois_Wk3_v1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ranger\AppData\Local\Temporary Projects\sdubois_Wk3_v1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ranger\AppData\Local\Temporary Projects\sdubois_Wk3_v1\obj\x86\Debug\sdubois_Wk3_v1.exe
+C:\Users\Ranger\AppData\Local\Temporary Projects\sdubois_Wk3_v1\obj\x86\Debug\sdubois_Wk3_v1.xml
+C:\Users\Ranger\AppData\Local\Temporary Projects\sdubois_Wk3_v1\obj\x86\Debug\sdubois_Wk3_v1.pdb
+C:\Users\Ranger\Documents\POS408\sdubois_Wk3_v1\sdubois_Wk3_v1\obj\x86\Debug\sdubois_Wk3_v1.exe
+C:\Users\Ranger\Documents\POS408\sdubois_Wk3_v1\sdubois_Wk3_v1\obj\x86\Debug\sdubois_Wk3_v1.xml
+C:\Users\Ranger\Documents\POS408\sdubois_Wk3_v1\sdubois_Wk3_v1\obj\x86\Debug\sdubois_Wk3_v1.pdb

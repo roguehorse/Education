@@ -1,0 +1,91 @@
+C:\Users\Ranger\Documents\POS408\File WriteLine Demo\File WriteLine Demo\bin\Debug\names
+
+C:\Users\Ranger\Documents\POS408\sdubois_wk4_v1\sdubois_wk4_v1\bin\Debug\watts
+
+        'Constant for the number of friends
+        Const intNUM_FRIENDS As Integer = 3
+
+        'Local variables
+        Dim friendFile As StreamReader  'Object variable
+        Dim strFilename As String       'File name
+        Dim strFriend As String         'Name of a friend
+        Dim strPhone As String          'To hold a phone number
+        Dim intCount As Integer         'Loop counter
+
+        'Get the file name from the user
+        strFilename = InputBox("Enter a file name")
+
+        Try
+
+            'Open the file
+            friendFile = File.OpenText(strFilename)  
+
+            'Read the data
+            For intCount = 1 To intNUM_FRIENDS
+
+                'Read a name and phone number from the file
+                strFriend = friendFile.ReadLine()
+                strPhone = friendFile.ReadLine()
+
+                'Display the data in the listbox
+                lstFriends.Items.Add("Friend number " & intCount.ToString())
+                lstFriends.Items.Add("Name: " & strFriend)
+                lstFriends.Items.Add("Phone: " & strPhone)
+                lstFriends.Items.Add(" ")
+
+            Next
+
+            'Close file
+            friendFile.Close()
+
+        Catch ex As Exception
+
+            MessageBox.Show("The file cannot be opened")
+
+        End Try
+
+
+****************************************************************************************
+
+        'Constant for the number of friends
+        Dim intNUM_FRIENDS As Integer = 3
+
+        'Local variables
+        Dim strFilename As String       'File name
+        Dim strFriend As String         'Name of friend
+        Dim strPhone As String          'Phone number
+        Dim intCount As Integer         'Loop counter
+        Dim friendFile As StreamWriter  'Object variable
+
+        'Get file name from user
+        strFilename = InputBox("Enter file name")
+
+        Try
+
+            'Open the file
+            friendFile = File.CreateText(strFilename)
+
+            'Get the data and write to file
+            For intCount = 1 To intNUM_FRIENDS
+
+                'Get a friends name
+                strFriend = InputBox("Enter friend name " & "number " & intCount.ToString())
+
+                'Get phone number
+                strPhone = InputBox("Enter the phone number ")
+
+                'Write data to file
+                friendFile.WriteLine(strFriend)
+                friendFile.WriteLine(strPhone)
+
+            Next
+
+            'Close file
+            friendFile.Close()
+
+        Catch ex As Exception
+
+            'Error message
+            MessageBox.Show("File cannot be created")
+
+        End Try
