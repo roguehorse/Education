@@ -1,0 +1,9 @@
+C:\Users\Ranger\Documents\POS409\Indiv\Wk2\v1\sdubois_wk2_indiv\sdubois_wk2_indiv\bin\Debug\sdubois_wk2_indiv.exe
+C:\Users\Ranger\Documents\POS409\Indiv\Wk2\v1\sdubois_wk2_indiv\sdubois_wk2_indiv\bin\Debug\sdubois_wk2_indiv.pdb
+C:\Users\Ranger\Documents\POS409\Indiv\Wk2\v1\sdubois_wk2_indiv\sdubois_wk2_indiv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ranger\Documents\POS409\Indiv\Wk2\v1\sdubois_wk2_indiv\sdubois_wk2_indiv\obj\x86\Debug\sdubois_wk2_indiv.Form1.resources
+C:\Users\Ranger\Documents\POS409\Indiv\Wk2\v1\sdubois_wk2_indiv\sdubois_wk2_indiv\obj\x86\Debug\sdubois_wk2_indiv.Properties.Resources.resources
+C:\Users\Ranger\Documents\POS409\Indiv\Wk2\v1\sdubois_wk2_indiv\sdubois_wk2_indiv\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ranger\Documents\POS409\Indiv\Wk2\v1\sdubois_wk2_indiv\sdubois_wk2_indiv\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ranger\Documents\POS409\Indiv\Wk2\v1\sdubois_wk2_indiv\sdubois_wk2_indiv\obj\x86\Debug\sdubois_wk2_indiv.exe
+C:\Users\Ranger\Documents\POS409\Indiv\Wk2\v1\sdubois_wk2_indiv\sdubois_wk2_indiv\obj\x86\Debug\sdubois_wk2_indiv.pdb

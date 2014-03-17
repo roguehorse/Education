@@ -1,0 +1,3 @@
+C:\Users\Ranger\Documents\POS409\Indiv\Wk4\sdubois_wk4_indiv\sdubois_wk4_indiv\bin\Debug\sdubois_wk4_indiv.exe.config
+C:\Users\Ranger\Documents\POS409\Indiv\Wk4\sdubois_wk4_indiv\sdubois_wk4_indiv\obj\x86\Debug\sdubois_wk4_indiv.exe
+C:\Users\Ranger\Documents\POS409\Indiv\Wk4\sdubois_wk4_indiv\sdubois_wk4_indiv\obj\x86\Debug\sdubois_wk4_indiv.pdb
