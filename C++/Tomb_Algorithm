@@ -1,9 +1,0 @@
-Area or room description
-  Provide selection options
-    If input does not equal selection item then do nothing
-    If input does equal selection item then move to next
-      If a good selection is made then progress to next area (repeat 1-4)
-      If bad selection is made then game ends
-Game ends
-  Play again
-  Quit
